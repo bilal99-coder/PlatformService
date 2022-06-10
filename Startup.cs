@@ -33,6 +33,7 @@ namespace PlatformService
             opt.UseInMemoryDatabase ("InMem"));
             services.AddScoped<IPlatformRepo, PlatformRepo>(); 
             services.AddControllers();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); 
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PlatformService", Version = "v1" });
@@ -45,7 +46,7 @@ namespace PlatformService
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
+                app.UseSwagger(); 
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PlatformService v1"));
             }
 
