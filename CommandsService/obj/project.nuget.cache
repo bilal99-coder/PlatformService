@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bT3M/gPF18WRwkyYQeZAReP4mWYaGN/bC8AHePwJpsWDTm+mNYAPXGB9SoXTf75YG6Pi3hdqqaO9tQ9NhOiYIw==",
+  "dgSpecHash": "MlkpOFn36uXkjr8sPIm7uwlcWpvmIUgdq/p++dS7dwIAd5gX4Yqq0MNGWCngKVLmTJFXcLrKUR9+SMqHbA55+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal\\Desktop\\kompetanse\\it\\PlatformService\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.0\\microsoft.entityframeworkcore.design.6.0.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.0\\microsoft.entityframeworkcore.inmemory.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0\\microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
